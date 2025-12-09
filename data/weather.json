@@ -1,46 +1,46 @@
 {
   "coord": {
-    "lon": 2.3488,
-    "lat": 48.8534
+    "lon": -0.1257,
+    "lat": 51.5085
   },
   "weather": [
     {
-      "id": 800,
-      "main": "Clear",
-      "description": "clear sky",
-      "icon": "01d"
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 13.09,
-    "feels_like": 12.52,
-    "temp_min": 11.88,
-    "temp_max": 14.01,
-    "pressure": 1012,
-    "humidity": 79,
-    "sea_level": 1012,
-    "grnd_level": 1003
+    "temp": 13.94,
+    "feels_like": 13.53,
+    "temp_min": 12.95,
+    "temp_max": 14.49,
+    "pressure": 1002,
+    "humidity": 82,
+    "sea_level": 1002,
+    "grnd_level": 998
   },
   "visibility": 10000,
   "wind": {
-    "speed": 6.17,
-    "deg": 200
+    "speed": 5.66,
+    "deg": 170
   },
   "clouds": {
-    "all": 0
+    "all": 75
   },
-  "dt": 1765277567,
+  "dt": 1765282443,
   "sys": {
-    "type": 1,
-    "id": 6550,
-    "country": "FR",
-    "sunrise": 1765265528,
-    "sunset": 1765295646
+    "type": 2,
+    "id": 2075535,
+    "country": "GB",
+    "sunrise": 1765266848,
+    "sunset": 1765295514
   },
-  "timezone": 3600,
-  "id": 2988507,
-  "name": "Paris",
+  "timezone": 0,
+  "id": 2643743,
+  "name": "London",
   "cod": 200,
-  "_last_updated_utc": "2025-12-09T11:00:52.244Z"
+  "_last_updated_utc": "2025-12-09T12:24:38.579Z"
 }
