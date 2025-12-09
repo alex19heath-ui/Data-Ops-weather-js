@@ -16,4 +16,9 @@ timestamp,city,temperature,description
 =======
 2025-12-09T12:37:27.608Z,London,14.02,broken clouds
 2025-12-09T12:37:27.609Z,London,14.02,broken clouds
+<<<<<<< HEAD
 >>>>>>> cd202e178a43eedf7f32d8629d12c1189a2dca87
+=======
+2025-12-09T12:53:15.031Z,Paris,14.88,clear sky
+2025-12-09T12:53:15.033Z,Paris,14.88,clear sky
+>>>>>>> b219c3d769256a56487cbb5b3ec03a9662a403ee
