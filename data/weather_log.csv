@@ -36,3 +36,5 @@ timestamp,city,temperature,description
 2025-12-09T20:35:48.327Z,Paris,14.75,light rain
 2025-12-09T22:36:38.861Z,Paris,14.23,moderate rain
 2025-12-09T22:36:38.863Z,Paris,14.23,moderate rain
+2025-12-10T03:49:01.518Z,Paris,12.64,overcast clouds
+2025-12-10T03:49:01.520Z,Paris,12.64,light rain
