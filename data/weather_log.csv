@@ -120,3 +120,5 @@ timestamp,city,temperature,description
 2025-12-13T16:47:15.641Z,Paris,9.42,overcast clouds
 2025-12-13T18:49:37.334Z,Paris,9,mist
 2025-12-13T18:49:37.361Z,Paris,9,mist
+2025-12-13T20:38:03.472Z,Paris,8.94,fog
+2025-12-13T20:38:03.474Z,Paris,8.94,fog
