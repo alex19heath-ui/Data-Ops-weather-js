@@ -152,3 +152,5 @@ timestamp,city,temperature,description
 2025-12-15T05:02:42.364Z,Paris,5.42,fog
 2025-12-15T07:02:07.052Z,Paris,5.2,fog
 2025-12-15T07:02:07.054Z,Paris,5.2,fog
+2025-12-15T09:00:32.839Z,Paris,5.15,mist
+2025-12-15T09:00:32.841Z,Paris,5.15,mist
