@@ -20,17 +20,17 @@
     "pressure": 1027,
     "humidity": 87,
     "sea_level": 1027,
-    "grnd_level": 1017
+    "grnd_level": 1018
   },
   "visibility": 10000,
   "wind": {
     "speed": 4.12,
-    "deg": 30
+    "deg": 40
   },
   "clouds": {
     "all": 0
   },
-  "dt": 1766780270,
+  "dt": 1766787499,
   "sys": {
     "type": 2,
     "id": 2012208,
@@ -42,5 +42,5 @@
   "id": 2988507,
   "name": "Paris",
   "cod": 200,
-  "_last_updated_utc": "2025-12-26T20:26:52.322Z"
+  "_last_updated_utc": "2025-12-26T22:24:09.863Z"
 }
