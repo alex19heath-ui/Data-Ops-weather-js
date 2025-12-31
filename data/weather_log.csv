@@ -524,3 +524,5 @@ timestamp,city,temperature,description
 2025-12-31T18:35:42.190Z,Paris,0.58,clear sky
 2025-12-31T20:27:58.283Z,Paris,0.7,mist
 2025-12-31T20:27:58.286Z,Paris,0.7,mist
+2025-12-31T22:25:11.239Z,Paris,-1.2,fog
+2025-12-31T22:25:11.241Z,Paris,-1.2,fog
