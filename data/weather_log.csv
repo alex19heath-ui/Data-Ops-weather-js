@@ -528,3 +528,5 @@ timestamp,city,temperature,description
 2025-12-31T22:25:11.241Z,Paris,-1.2,fog
 2026-01-01T02:12:00.080Z,Paris,-2.54,fog
 2026-01-01T02:12:00.082Z,Paris,-2.54,fog
+2026-01-01T04:51:47.193Z,Paris,-2.88,mist
+2026-01-01T04:51:47.197Z,Paris,-2.88,mist
