@@ -8,32 +8,32 @@
       "id": 741,
       "main": "Fog",
       "description": "fog",
-      "icon": "50n"
+      "icon": "50d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 0.45,
-    "feels_like": -3.04,
-    "temp_min": -0.12,
+    "temp": 1.18,
+    "feels_like": -1.15,
+    "temp_min": 0.77,
     "temp_max": 1.43,
     "pressure": 1000,
     "humidity": 99,
     "sea_level": 1000,
-    "grnd_level": 990
+    "grnd_level": 991
   },
-  "visibility": 350,
+  "visibility": 450,
   "wind": {
-    "speed": 3.09,
+    "speed": 2.06,
     "deg": 150
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1769669496,
+  "dt": 1769676032,
   "sys": {
     "type": 1,
-    "id": 6550,
+    "id": 6548,
     "country": "FR",
     "sunrise": 1769671498,
     "sunset": 1769704934
@@ -42,5 +42,5 @@
   "id": 2988507,
   "name": "Paris",
   "cod": 200,
-  "_last_updated_utc": "2026-01-29T06:55:32.054Z"
+  "_last_updated_utc": "2026-01-29T08:48:26.938Z"
 }
