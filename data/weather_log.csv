@@ -1235,3 +1235,5 @@ timestamp,city,temperature,description
 2026-02-01T22:29:59.092Z,Paris,8,overcast clouds
 2026-02-02T02:38:49.032Z,Paris,5.37,clear sky
 2026-02-02T02:38:49.066Z,Paris,5.37,clear sky
+2026-02-02T05:25:30.975Z,Paris,2.51,mist
+2026-02-02T05:25:30.977Z,Paris,2.51,mist
