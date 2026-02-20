@@ -5,24 +5,24 @@
   },
   "weather": [
     {
-      "id": 301,
-      "main": "Drizzle",
-      "description": "drizzle",
-      "icon": "09n"
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 7.61,
-    "feels_like": 4.34,
-    "temp_min": 6.77,
-    "temp_max": 8.47,
-    "pressure": 1014,
-    "humidity": 91,
-    "sea_level": 1014,
-    "grnd_level": 1004
+    "temp": 6.3,
+    "feels_like": 2.68,
+    "temp_min": 5.77,
+    "temp_max": 7.1,
+    "pressure": 1018,
+    "humidity": 90,
+    "sea_level": 1018,
+    "grnd_level": 1008
   },
-  "visibility": 6000,
+  "visibility": 10000,
   "wind": {
     "speed": 5.66,
     "deg": 290
@@ -30,17 +30,17 @@
   "clouds": {
     "all": 100
   },
-  "dt": 1771540419,
+  "dt": 1771554592,
   "sys": {
     "type": 2,
     "id": 2012208,
     "country": "FR",
-    "sunrise": 1771483935,
-    "sunset": 1771521419
+    "sunrise": 1771570225,
+    "sunset": 1771607917
   },
   "timezone": 3600,
   "id": 2988507,
   "name": "Paris",
   "cod": 200,
-  "_last_updated_utc": "2026-02-19T22:36:36.981Z"
+  "_last_updated_utc": "2026-02-20T02:31:56.767Z"
 }
